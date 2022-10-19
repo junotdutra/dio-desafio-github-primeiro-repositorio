@@ -1,0 +1,3 @@
+Link para download do git: https://git-scm.com/downloads
+
+Não utilizei o git bash, somente o terminal do Mac
